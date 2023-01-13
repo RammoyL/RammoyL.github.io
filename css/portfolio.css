@@ -432,7 +432,7 @@ button {
     font-weight: bold; 
     padding: 1.5vw; /* Adds padding to the text in the button */
     cursor: pointer; /* Changes the cursor to pointer over button elements */
-    width: 70%; /* Sets the width of the buttons to 100% of their containers */
+    width: 100%; /* Sets the width of the buttons to 100% of their containers */
     height: auto; /* Allows the height to be resized depending on the content showing */
 }
 
