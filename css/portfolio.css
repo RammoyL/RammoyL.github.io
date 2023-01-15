@@ -52,7 +52,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: .1vw; /* This expands the text slightly */
-    font-size: 18px;
+    font-size: 12px;
     padding-left: 1vw; /* Adds padding equal to 1% of viewport width*/
     padding-right: 1vw; /* Adds padding equal to 1% of viewport width */
 }
